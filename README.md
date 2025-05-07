@@ -7,18 +7,19 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/hasinaa_ahmed" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hasinaa_ahmed?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="[https://twitter.com/hasinaa_ahmed](https://www.linkedin.com/in/hasina-goosaar-357756268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <img src="[https://img.shields.io/twitter/follow/hasinaa_ahmed?logo=twitter&style=for-the-badge" alt="Twitter Follow"](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hasina-goosaar-357756268/) />
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **My Portfolio**
-- 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **MERN Stack**
-- 📫 Reach me at **hasiinamohamed01@gmail.com**
-- ⚡ Fun fact: *Debugging late at night until everything runs perfectly = peace.*
+- 💼 Working on new projects to showcase in my developer portfolio  
+- 📱 Exploring mobile app development with Flutter  
+- 🧠 Experienced with the MERN stack — happy to discuss it!  
+- 📧 Reach me: hasiinamohamed01@gmail.com  
+- ✨ Fun fact: I find joy in debugging — turning problems into clean, working code!
+
 
 ---
 
