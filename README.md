@@ -43,14 +43,16 @@ code!
 
 ---
 
-### 🛠 Languages & Tools (Text Summary)
+🛠 Languages & Tools (Text Summary)
 
 **Frontend**: React.js, Next.js, Tailwind CSS  
 **Backend**: Node.js, Express.js, FastAPI  
 **Mobile**: Flutter, Dart  
 **Database**: MongoDB, PostgreSQL, MySQL  
 **Languages**: JavaScript, Python  
+**Data Science**: pandas, NumPy, Matplotlib, Jupyter Notebooks  
 **Tools**: Git, GitHub, Figma, VS Code
+
 
 ---
 
@@ -74,6 +76,12 @@ code!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  
+<!-- Data Science Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 
   <!-- Languages & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
