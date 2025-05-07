@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hasina Goosaar</h1>
-<h3 align="left">🚀 Passionate Full-Stack Developer | Lifelong Learner | Dreamer of Clean Code</h3>
+<h3 align="left">🚀 Full-Stack Developer | Aspiring Data Scientist | Lifelong Learner</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hasina-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,9 +16,11 @@
 
 - 💼 Working on new projects to showcase in my developer portfolio  
 - 📱 Exploring mobile app development with Flutter  
-- 🧠 Experienced with the MERN stack — happy to discuss it!  
+- 🎓 Currently pursuing a Master's in Data Science  
+- 🧠 Comfortable with the MERN stack — happy to discuss it!  
 - 📧 Reach me: hasiinamohamed01@gmail.com  
 - ✨ Fun fact: I find joy in debugging — turning problems into clean, working code!
+code!
 
 ---
 
