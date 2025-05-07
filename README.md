@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hasina Goosaar</h1>
 <h3 align="left">🚀 Passionate Full-Stack Developer | Lifelong Learner | Dreamer of Clean Code</h3>
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hasina-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -12,7 +11,6 @@
   </a>
 </p>
 
-
 ---
 
 - 💼 Working on new projects to showcase in my developer portfolio  
@@ -21,10 +19,10 @@
 - 📧 Reach me: hasiinamohamed01@gmail.com  
 - ✨ Fun fact: I find joy in debugging — turning problems into clean, working code!
 
-
 ---
 
-<h3>Connect with me</h3>
+### 🤝 Connect with me
+
 <p>
   <a href="https://www.linkedin.com/in/hasina-goosaar-357756268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
@@ -40,19 +38,21 @@
   </a>
 </p>
 
-
 ---
 
----
-
-### 🛠 Languages & Tools
+### 🛠 Languages & Tools (Text Summary)
 
 **Frontend**: React.js, Next.js, Tailwind CSS  
 **Backend**: Node.js, Express.js, FastAPI  
 **Mobile**: Flutter, Dart  
-**Database**: MongoDB, PostgreSQL, MySQL 
+**Database**: MongoDB, PostgreSQL, MySQL  
 **Languages**: JavaScript, Python  
-**Tools**: Git, GitHub, Figma, VScode<h3>🛠 Languages & Tools</h3>
+**Tools**: Git, GitHub, Figma, VS Code
+
+---
+
+### 🧩 Icons View
+
 <p align="left">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -79,16 +79,8 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-
----
-
-
-
-
-
 ---
 
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasina-mohamed&layout=compact&theme=default)
-
