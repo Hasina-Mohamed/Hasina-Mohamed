@@ -24,8 +24,7 @@ code!
 
 ---
 
-### 🤝 Connect with me
-
+<h3>🤝 Connect with me</h3>
 <p>
   <a href="https://www.linkedin.com/in/hasina-goosaar-357756268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
@@ -33,13 +32,17 @@ code!
   <a href="https://twitter.com/hasinaa_ahmed" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://facebook.com/share/1JCkbeH4T2" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Facebook" />
+  <a href="https://leetcode.com/u/Hasina_Goosaar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge" alt="LeetCode" />
   </a>
-  <a href="https://instagram.com/hgoosaar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
+  <a href="https://www.kaggle.com/hasinagoosaar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Explore-blue?logo=kaggle&style=for-the-badge" alt="Kaggle" />
+  </a>
+  <a href="https://medium.com/@hasiinamohamed01" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Articles-black?logo=medium&style=for-the-badge" alt="Medium" />
   </a>
 </p>
+
 
 ---
 
