@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hasina Goosaar</h1>
-<h3 align="center">Code, Passion, and Dreams : the essence of a Dedicated Developer!</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Dreamer of Clean Code</h3>
 <img align="right" alt="coding" width="400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasina-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="hasina-mohamed" /> </p>
