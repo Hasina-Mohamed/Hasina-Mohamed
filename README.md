@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hasina Goosaar</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Dreamer of Clean Code</h3>
+<h1 align="left">Hi 👋, I'm Hasina Goosaar</h1>
+<h3 align="left">🚀 Passionate Full-Stack Developer | Lifelong Learner | Dreamer of Clean Code</h3>
 
 
 <p align="left">
