@@ -7,10 +7,11 @@
 </p>
 
 <p align="left">
-  <a href="[https://twitter.com/hasinaa_ahmed](https://www.linkedin.com/in/hasina-goosaar-357756268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
-    <img src="[https://img.shields.io/twitter/follow/hasinaa_ahmed?logo=twitter&style=for-the-badge" alt="Twitter Follow"](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hasina-goosaar-357756268/) />
+  <a href="https://www.linkedin.com/in/hasina-goosaar-357756268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
   </a>
 </p>
+
 
 ---
 
